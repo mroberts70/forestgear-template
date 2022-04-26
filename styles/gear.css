@@ -1,0 +1,16 @@
+header {
+    background-color: darkgreen;
+    background-image: url(../images/hero-image-forest2.jpg);
+    background-position: center;
+    background-size: cover;
+    background-blend-mode: multiply;
+}
+h1 {
+    font-size: 200%;
+    flex-grow: 1;
+    outline: none;
+}
+.thumbnail {
+    max-width: 150px;
+    width: 100%;
+}
